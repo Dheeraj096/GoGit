@@ -31,10 +31,6 @@ Ans  - Basically from my understanding SSH keys are secure alternate to email an
                             
                             
                             
-   2nd Method
 
-  
-                            
-                            
-                            
- 
+   4th method                         
+
